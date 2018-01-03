@@ -9,3 +9,8 @@ https://www.udemy.com/aws-certified-solutions-architect-associate
 #### Introduction & Overview 2018
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/intro1.png "intro1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/intro2.png "intro2")
+
+#### The Exam Blue Print
+https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/exam1.png "exam1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/exam2.png "exam2")

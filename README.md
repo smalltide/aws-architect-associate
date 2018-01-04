@@ -14,3 +14,15 @@ https://www.udemy.com/aws-certified-solutions-architect-associate
 https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/exam1.png "exam1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/exam2.png "exam2")
+
+#### 10,000 Foot Overview Part 1
+https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-1.png "footp1-1")
+https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-2.png "footp1-2")
+https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-3.png "footp1-3")
+https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-4.png "footp1-4")
+https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-5.png "footp1-5")

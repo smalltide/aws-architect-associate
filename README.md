@@ -29,3 +29,9 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp2-4.png "footp2-4")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp2-5.png "footp2-5")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp2-6.png "footp2-6")
+
+#### 10,000 Foot Overview Part 3
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-1.png "footp3-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-2.png "footp3-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-3.png "footp3-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-4.png "footp3-4")

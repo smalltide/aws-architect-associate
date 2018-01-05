@@ -46,3 +46,8 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-7.png "footp4-7")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-8.png "footp4-8")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-9.png "footp4-9")
+
+#### Exam Scope
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/scope1.png "scope1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/scope2.png "scope2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/scope3.png "scope3")

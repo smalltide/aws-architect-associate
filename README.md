@@ -35,3 +35,14 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-2.png "footp3-2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-3.png "footp3-3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp3-4.png "footp3-4")
+
+#### 10,000 Foot Overview Part 4
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-1.png "footp4-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-2.png "footp4-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-3.png "footp4-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-4.png "footp4-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-5.png "footp4-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-6.png "footp4-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-7.png "footp4-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-8.png "footp4-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp4-9.png "footp4-9")

@@ -59,3 +59,8 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 #### IAM 101
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam1.png "iam1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam2.png "iam2")
+
+#### IAM Summary
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam3.png "iam3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam4.png "iam4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam5.png "iam5")

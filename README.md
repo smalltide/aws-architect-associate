@@ -15,6 +15,8 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/exam1.png "exam1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/exam2.png "exam2")
 
+## AWS - 10,000 Feet Overview
+
 #### 10,000 Foot Overview Part 1
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-1.png "footp1-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/footp1-2.png "footp1-2")
@@ -51,3 +53,9 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/scope1.png "scope1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/scope2.png "scope2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/scope3.png "scope3")
+
+## Identity Access Management (IAM)
+
+#### IAM 101
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam1.png "iam1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam2.png "iam2")

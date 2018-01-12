@@ -64,3 +64,21 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam3.png "iam3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam4.png "iam4")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/iam5.png "iam5")
+
+## AWS Object Storage and CDN - S3, Glacier and CloudFront
+
+#### S3 - 101
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-1.png "s3-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-2.png "s3-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-3.png "s3-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-4.png "s3-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-5.png "s3-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-6.png "s3-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-7.png "s3-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-8.png "s3-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-9.png "s3-9")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-10.png "s3-10")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-11.png "s3-11")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-12.png "s3-12")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-13.png "s3-13")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-14.png "s3-14")

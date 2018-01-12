@@ -85,3 +85,6 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 
 #### Create an S3 Bucket - Lab
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-15.png "s3-15")
+
+#### Version Control - Lab
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-16")

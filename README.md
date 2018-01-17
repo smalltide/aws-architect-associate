@@ -88,3 +88,8 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 
 #### Version Control - Lab
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-16")
+
+#### Cross Region Replication
+https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-17")
+

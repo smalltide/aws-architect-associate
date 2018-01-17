@@ -91,7 +91,15 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 
 #### Cross Region Replication
 https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
-![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-17")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-17.png "s3-17")
 
 #### Lifecycle Management & Glacier - Lab
-![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-18")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-18.png "s3-18")
+
+#### CloudFront CDN Overview
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-19.png "s3-19")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-20.png "s3-20")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-21.png "s3-21")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-22.png "s3-22")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-23.png "s3-23")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-24.png "s3-24")

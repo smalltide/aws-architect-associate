@@ -93,3 +93,5 @@ https://aws.amazon.com/tw/certification/certified-solutions-architect-associate/
 https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-17")
 
+#### Lifecycle Management & Glacier - Lab
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-16.png "s3-18")

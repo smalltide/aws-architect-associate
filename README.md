@@ -122,3 +122,11 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-37.png "s3-37")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-38.png "s3-38")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-39.png "s3-39")
+
+#### Snowball
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-40.png "s3-40")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-41.png "s3-41")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-42.png "s3-42")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-43.png "s3-43")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-44.png "s3-44")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-45.png "s3-45")

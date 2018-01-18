@@ -103,3 +103,7 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-22.png "s3-22")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-23.png "s3-23")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-24.png "s3-24")
+
+#### S3 - Security & Encryption
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-25.png "s3-25")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-26.png "s3-26")

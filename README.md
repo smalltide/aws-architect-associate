@@ -107,3 +107,18 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 #### S3 - Security & Encryption
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-25.png "s3-25")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-26.png "s3-26")
+
+#### Storage Gateway
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-27.png "s3-27")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-28.png "s3-28")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-29.png "s3-29")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-30.png "s3-30")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-31.png "s3-31")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-32.png "s3-32")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-33.png "s3-33")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-34.png "s3-34")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-35.png "s3-35")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-36.png "s3-36")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-37.png "s3-37")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-38.png "s3-38")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-39.png "s3-39")

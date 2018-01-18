@@ -130,3 +130,6 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-43.png "s3-43")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-44.png "s3-44")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-45.png "s3-45")
+
+#### S3 Transfer Acceleration
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-45.png "s3-46")

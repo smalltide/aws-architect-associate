@@ -132,4 +132,22 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-45.png "s3-45")
 
 #### S3 Transfer Acceleration
-![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-45.png "s3-46")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-46.png "s3-46")
+
+#### S3 Summary
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-47.png "s3-47")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-48.png "s3-48")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-49.png "s3-49")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-50.png "s3-50")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-51.png "s3-51")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-52.png "s3-52")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-53.png "s3-53")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-54.png "s3-54")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-55.png "s3-55")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-56.png "s3-56")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-57.png "s3-57")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-58.png "s3-58")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-59.png "s3-59")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-60.png "s3-60")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-61.png "s3-61")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-62.png "s3-62")

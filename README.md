@@ -151,3 +151,16 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-60.png "s3-60")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-61.png "s3-61")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/s3-62.png "s3-62")
+
+## EC2 - The Backbone of AWS
+
+#### EC2 101 - Part 1
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-1.png "ec2-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-2.png "ec2-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-3.png "ec2-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-4.png "ec2-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-5.png "ec2-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-6.png "ec2-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-7.png "ec2-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-8.png "ec2-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-9.png "ec2-9")

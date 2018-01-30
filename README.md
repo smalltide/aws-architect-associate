@@ -188,3 +188,7 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-5.png "ebs-5")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-6.png "ebs-6")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-7.png "ebs-7")
+
+#### Create An AMI - Lab
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-8.png "ebs-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-9.png "ebs-9")

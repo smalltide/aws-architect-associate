@@ -192,3 +192,8 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 #### Create An AMI - Lab
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-8.png "ebs-8")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-9.png "ebs-9")
+
+#### AMI's - EBS Root Volumes vs Instance Store
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-10.png "ebs-10")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-11.png "ebs-11")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-12.png "ebs-12")

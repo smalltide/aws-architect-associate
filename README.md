@@ -183,3 +183,8 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-2.png "ebs-2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-3.png "ebs-3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-4.png "ebs-4")
+
+#### Creating a Windows EC2 Instance & RAID Group
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-5.png "ebs-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-6.png "ebs-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-7.png "ebs-7")

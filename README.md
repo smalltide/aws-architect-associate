@@ -177,3 +177,9 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 
 #### Security Groups Basics
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sg-1.png "sg-1")
+
+#### Upgrading EBS Volume Types - Lab
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-1.png "ebs-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-2.png "ebs-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-3.png "ebs-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-4.png "ebs-4")

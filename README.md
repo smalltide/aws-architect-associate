@@ -174,3 +174,6 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-15.png "ec2-15")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-16.png "ec2-16")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ec2-17.png "ec2-17")
+
+#### Security Groups Basics
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sg-1.png "sg-1")

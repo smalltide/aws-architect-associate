@@ -197,3 +197,6 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-10.png "ebs-10")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-11.png "ebs-11")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-12.png "ebs-12")
+
+#### Load Balancers & Health Checks
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-13.png "ebs-13")

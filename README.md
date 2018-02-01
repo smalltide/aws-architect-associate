@@ -200,3 +200,6 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 
 #### Load Balancers & Health Checks
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ebs-13.png "ebs-13")
+
+#### Cloud Watch EC2
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/CW.png "CW")

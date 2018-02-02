@@ -203,3 +203,6 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 
 #### Cloud Watch EC2
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/CW.png "CW")
+
+#### EC2 Instance Metadata
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html

@@ -214,3 +214,11 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### EFS - Concepts & Lab
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/efs-1.png "efs-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/efs-2.png "efs-2")
+
+#### Lambda - Concepts
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-1.png "lambda-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-2.png "lambda-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-3.png "lambda-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-4.png "lambda-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-5.png "lambda-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-6.png "lambda-6")

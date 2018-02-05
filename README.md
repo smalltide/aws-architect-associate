@@ -206,3 +206,7 @@ https://aws.amazon.com/tw/answers/infrastructure-management/crr-monitor/
 
 #### EC2 Instance Metadata
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+
+#### EC2 Placement Groups
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/pg-1.png "pg-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/pg-2.png "pg-2")

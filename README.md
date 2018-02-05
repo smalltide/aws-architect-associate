@@ -222,3 +222,5 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-4.png "lambda-4")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-5.png "lambda-5")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-6.png "lambda-6")
+
+#### Using Polly To Help You Pass Your Exam

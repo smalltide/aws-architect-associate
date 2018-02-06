@@ -229,3 +229,14 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### Build An Alexa Skill
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/lambda-8.png "lambda-8")
 
+## Route53
+
+#### DNS 101
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-1.png "dns-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-2.png "dns-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-3.png "dns-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-4.png "dns-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-5.png "dns-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-6.png "dns-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-7.png "dns-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-8.png "dns-8")

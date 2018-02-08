@@ -232,7 +232,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ## Route53
 
 #### DNS 101
-![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-1.png "dns-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-1.png "dns-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-2.png "dns-2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-3.png "dns-3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-4.png "dns-4")
@@ -254,3 +254,16 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-18.png "dns-18")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-19.png "dns-19")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-20.png "dns-20")
+
+## Databases on AWS
+
+#### Databases 101
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-1.png "db-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-2.png "db-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-3.png "db-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-4.png "db-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-5.png "db-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-6.png "db-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-7.png "db-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-8.png "db-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-9.png "db-9")

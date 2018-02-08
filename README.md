@@ -282,3 +282,11 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-20.png "db-20")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-21.png "db-21")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-22.png "db-22")
+
+#### DynamoDB
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-23.png "db-23")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-24.png "db-24")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-25.png "db-25")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-26.png "db-26")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-27.png "db-27")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-28.png "db-28")

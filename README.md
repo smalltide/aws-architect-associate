@@ -267,3 +267,18 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-7.png "db-7")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-8.png "db-8")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-9.png "db-9")
+
+#### RDS - Backups, Multi-AZ & Read Replicas
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-10.png "db-10")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-11.png "db-11")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-12.png "db-12")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-13.png "db-13")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-14.png "db-14")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-15.png "db-15")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-16.png "db-16")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-17.png "db-17")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-18.png "db-18")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-19.png "db-19")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-20.png "db-20")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-21.png "db-21")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-22.png "db-22")

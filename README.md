@@ -240,3 +240,17 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-6.png "dns-6")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-7.png "dns-7")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-8.png "dns-8")
+
+#### Routing Policy
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-9.png "dns-9")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-10.png "dns-10")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-11.png "dns-11")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-12.png "dns-12")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-13.png "dns-13")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-14.png "dns-14")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-15.png "dns-15")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-16.png "dns-16")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-17.png "dns-17")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-18.png "dns-18")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-19.png "dns-19")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-20.png "dns-20")

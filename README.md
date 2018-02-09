@@ -301,3 +301,10 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-35.png "db-35")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-36.png "db-36")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-37.png "db-37")
+
+#### Elasticache
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-38.png "db-38")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-39.png "db-39")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-40.png "db-40")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-41.png "db-41")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-42.png "db-42")

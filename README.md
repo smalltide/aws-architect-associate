@@ -308,3 +308,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-40.png "db-40")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-41.png "db-41")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-42.png "db-42")
+
+#### Aurora
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-43.png "db-43")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-44.png "db-44")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-45.png "db-45")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-46.png "db-46")

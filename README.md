@@ -290,3 +290,14 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-26.png "db-26")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-27.png "db-27")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-28.png "db-28")
+
+#### RedShift
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-29.png "db-29")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-30.png "db-30")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-31.png "db-31")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-32.png "db-32")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-33.png "db-33")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-34.png "db-34")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-35.png "db-35")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-36.png "db-36")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-37.png "db-37")

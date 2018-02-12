@@ -232,7 +232,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ## Route53
 
 #### DNS 101
-![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-1.png "dns-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-1.png "dns-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-2.png "dns-2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-3.png "dns-3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dns-4.png "dns-4")
@@ -314,3 +314,18 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-44.png "db-44")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-45.png "db-45")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/db-46.png "db-46")
+
+## VPC
+
+#### Introduction & Overview
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-1.png "vpc-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-2.png "vpc-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-3.png "vpc-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-4.png "vpc-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-5.png "vpc-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-6.png "vpc-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-7.png "vpc-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-8.png "vpc-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-9.png "vpc-9")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-10.png "vpc-10")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-11.png "vpc-11")

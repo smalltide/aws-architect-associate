@@ -329,3 +329,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-9.png "vpc-9")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-10.png "vpc-10")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-11.png "vpc-11")
+
+#### Build Your Own Custom VPC - Part 1
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-12.png "vpc-12")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-13.png "vpc-13")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-14.png "vpc-14")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-15.png "vpc-15")

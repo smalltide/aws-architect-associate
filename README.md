@@ -342,3 +342,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-18.png "vpc-18")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-19.png "vpc-19")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-20.png "vpc-20")
+
+#### Network Access Control Lists vs Security Groups
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-21.png "vpc-21")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-22.png "vpc-22")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-23.png "vpc-23")
+

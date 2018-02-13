@@ -354,3 +354,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-26.png "vpc-26")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-27.png "vpc-27")
 
+#### NATs vs Bastions
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-28.png "vpc-28")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-29.png "vpc-29")

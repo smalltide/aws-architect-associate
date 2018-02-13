@@ -335,3 +335,10 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-13.png "vpc-13")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-14.png "vpc-14")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-15.png "vpc-15")
+
+#### Network Address Translation (NAT)
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-16.png "vpc-16")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-17.png "vpc-17")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-18.png "vpc-18")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-19.png "vpc-19")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-20.png "vpc-20")

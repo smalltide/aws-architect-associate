@@ -348,3 +348,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-22.png "vpc-22")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-23.png "vpc-23")
 
+#### VPC Flow Logs
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-24.png "vpc-24")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-25.png "vpc-25")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-26.png "vpc-26")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-27.png "vpc-27")
+

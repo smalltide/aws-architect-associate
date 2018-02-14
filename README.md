@@ -370,3 +370,8 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-7.png "sqs-7")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-8.png "sqs-8")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-9.png "sqs-9")
+
+#### SWF
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/swf-1.png "swf-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/swf-2.png "swf-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/swf-3.png "swf-3")

@@ -389,3 +389,13 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### Elastic Transcoder
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/et-1.png "et-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/et-2.png "et-2")
+
+#### API Gateway
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-1.png "api-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-2.png "api-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-3.png "api-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-4.png "api-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-5.png "api-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-6.png "api-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-7.png "api-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-8.png "api-8")

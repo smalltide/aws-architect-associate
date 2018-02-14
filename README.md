@@ -375,3 +375,13 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/swf-1.png "swf-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/swf-2.png "swf-2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/swf-3.png "swf-3")
+
+#### SNS
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-1.png "sns-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-2.png "sns-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-3.png "sns-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-4.png "sns-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-5.png "sns-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-6.png "sns-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-7.png "sns-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sns-8.png "sns-8")

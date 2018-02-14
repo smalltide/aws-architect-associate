@@ -357,3 +357,16 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### NATs vs Bastions
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-28.png "vpc-28")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpc-29.png "vpc-29")
+
+## Application Services
+
+#### SQS
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-1.png "sqs-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-2.png "sqs-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-3.png "sqs-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-4.png "sqs-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-5.png "sqs-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-6.png "sqs-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-7.png "sqs-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-8.png "sqs-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sqs-9.png "sqs-9")

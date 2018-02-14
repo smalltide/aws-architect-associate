@@ -399,3 +399,14 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-6.png "api-6")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-7.png "api-7")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/api-8.png "api-8")
+
+#### Kinesis 101
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-1.png "kinesis-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-2.png "kinesis-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-3.png "kinesis-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-4.png "kinesis-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-5.png "kinesis-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-6.png "kinesis-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-7.png "kinesis-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-8.png "kinesis-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-9.png "kinesis-9")

@@ -410,3 +410,18 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-7.png "kinesis-7")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-8.png "kinesis-8")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-9.png "kinesis-9")
+
+## Additional Exam Tips
+
+#### AWS Organizations Lab and Consolidated Billing
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-1.png "organizations-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-2.png "organizations-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-3.png "organizations-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-4.png "organizations-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-5.png "organizations-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-6.png "organizations-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-7.png "organizations-7")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-8.png "organizations-8")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-9.png "organizations-9")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-10.png "organizations-10")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-11.png "organizations-11")

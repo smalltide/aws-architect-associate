@@ -460,3 +460,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 
 #### Active Directory Integration
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ad-1.png "ad-1")
+
+#### Workspaces
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/workspaces-1.png "workspaces-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/workspaces-2.png "workspaces-2")

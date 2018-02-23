@@ -457,3 +457,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-5.png "sts-5")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-6.png "sts-6")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-7.png "sts-7")
+
+#### Active Directory Integration
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ad-1.png "ad-1")

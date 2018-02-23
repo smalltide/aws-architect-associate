@@ -429,3 +429,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### Cross Account Access
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ac-1.png "ac-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/ac-2.png "ac-2")
+
+#### Resource Groups & Tagging
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/rg-1.png "rg-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/rg-2.png "rg-2")

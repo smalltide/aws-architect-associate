@@ -413,8 +413,8 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 
 ## Additional Exam Tips
 
-#### AWS Organizations Lab and Consolidated Billing
-![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-1.png "organizations-1")
+#### AWS vpcpeer Lab and Consolidated Billing
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-1.png "organizations-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-2.png "organizations-2")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-3.png "organizations-3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/organizations-4.png "organizations-4")
@@ -433,3 +433,11 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### Resource Groups & Tagging
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/rg-1.png "rg-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/rg-2.png "rg-2")
+
+#### VPC Peering
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-1.png "vpcpeer-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-2.png "vpcpeer-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-3.png "vpcpeer-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-4.png "vpcpeer-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-5.png "vpcpeer-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-6.png "vpcpeer-6")

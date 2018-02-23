@@ -441,3 +441,10 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-4.png "vpcpeer-4")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-5.png "vpcpeer-5")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/vpcpeer-6.png "vpcpeer-6")
+
+#### Direct Connect
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-1.png "dc-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-2.png "dc-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-3.png "dc-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-4.png "dc-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-5.png "dc-5")

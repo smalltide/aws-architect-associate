@@ -448,3 +448,12 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-3.png "dc-3")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-4.png "dc-4")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/dc-5.png "dc-5")
+
+#### Security Token Service
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-1.png "sts-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-2.png "sts-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-3.png "sts-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-4.png "sts-4")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-5.png "sts-5")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-6.png "sts-6")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/sts-7.png "sts-7")

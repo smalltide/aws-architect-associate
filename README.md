@@ -411,6 +411,13 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-8.png "kinesis-8")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/kinesis-9.png "kinesis-9")
 
+## The Real World - Creating a fault tolerant Word Press Site
+
+#### Getting Setup
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/wp-1.png "wp-1")
+
+
+
 ## Additional Exam Tips
 
 #### AWS vpcpeer Lab and Consolidated Billing

@@ -464,3 +464,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### Workspaces
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/workspaces-1.png "workspaces-1")
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/workspaces-2.png "workspaces-2")
+
+#### What Is Docker
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/docker-1.png "docker-1")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/docker-2.png "docker-2")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/docker-3.png "docker-3")
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/docker-4.png "docker-4")

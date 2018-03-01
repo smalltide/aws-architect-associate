@@ -416,6 +416,8 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 #### Getting Setup
 ![](https://github.com/smalltide/aws-architect-associate/blob/master/img/wp-1.png "wp-1")
 
+#### Setting Up Our AMI's
+![](https://github.com/smalltide/aws-architect-associate/blob/master/img/wp-2.png "wp-2")
 
 
 ## Additional Exam Tips

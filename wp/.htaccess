@@ -1,0 +1,7 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewriterule ^wp-content/uploads/(.*)$ http://[your_domain].cloudfront.net/$1 [r=301,nc]
+
+# BEGIN WordPress
+
+# END WordPress
